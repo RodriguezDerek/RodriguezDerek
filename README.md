@@ -1,4 +1,4 @@
-Hi 👋 I'm Derek Rodriguez<br><br>
+# Hi 👋 I'm Derek Rodriguez<br><br>
 
 # 💫 About Me:
 I’m a Computer Science student at UConn with a passion for technology, problem-solving, and soccer. I enjoy working with teams to help bring real-world projects to life and am always looking for new challenges and opportunities to grow.<br><br>
